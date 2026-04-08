@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm P S K M Swamy 👋
 
 I'm a seasoned **.NET Fullstack Developer** with over 12 years of experience building robust, scalable applications. Passionate about clean code, modern architectures, and delivering high-quality software solutions.
 
