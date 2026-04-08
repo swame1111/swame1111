@@ -1,4 +1,4 @@
-# Hi, I'm P S K M Swamy 👋
+# Hi, I'm Swamy Pasem 👋
 
 I'm a seasoned **.NET Fullstack Developer** with over 12 years of experience building robust, scalable applications. Passionate about clean code, modern architectures, and delivering high-quality software solutions.
 
